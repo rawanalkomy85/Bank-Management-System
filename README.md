@@ -197,3 +197,14 @@ This project was developed as an educational project to practice:
 - Data is currently stored **in memory** using Python objects and dictionaries.
 - Data is not persisted in a database or file after the application is closed.
 - The project is intended for learning and demonstration purposes.
+
+## 🚀 Future Improvements
+
+The project can be further improved in future versions by adding:
+
+- Add a feature to delete customer accounts.
+- Add a feature to delete employees.
+- Improve the GUI design and make the screens more user-friendly.
+- Improve the Accounts screen to display updated balances after transactions, especially after transfers.
+- Add more validation and error handling.
+- Add persistent data storage using a database.
